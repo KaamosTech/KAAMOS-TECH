@@ -66,6 +66,10 @@ body{
         border-radius: 100%;
     }
 
+.video {
+  margin: 0 auto;
+}
+
     .channel{
         margin-top: 50px;
         border-spacing: 30px;
