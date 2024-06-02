@@ -71,7 +71,6 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-    margin-top: 30px;
 }
 
 .video iframe{
@@ -259,6 +258,10 @@ body{
 
     .product_text {
         padding: 0;
+    }
+
+    .video{
+    margin-top: 30px;
     }
 
     .channel{
