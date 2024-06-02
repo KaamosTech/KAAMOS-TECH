@@ -66,15 +66,8 @@ body{
         border-radius: 100%;
     }
 
-.video {
-  width: 450;
-  height: 250;
+.video iframe{
   margin: 0 auto;
-}
-
-.video {
-  width: 100%;
-  height: 100%;
 }
 
     .channel{
