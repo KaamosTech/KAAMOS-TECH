@@ -66,10 +66,16 @@ body{
         border-radius: 100%;
     }
 
+.video{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;  
+}
+
 .video iframe{
     width: 90%;
     aspect-ratio: 2/1;
-  margin: 0 auto;
 }
 
     .channel{
