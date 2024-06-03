@@ -219,6 +219,7 @@ article {
 
   .member_detail {
     margin: 30% auto;
+    border: solid 1px;
   }
 
   .achievements {
