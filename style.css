@@ -304,6 +304,10 @@ article {
     width: 100%;
   }
 
+  .member_name {
+  font-size: 18px;
+}
+
   .member_work {
     font-size: 14px;
   }
