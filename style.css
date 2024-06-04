@@ -250,6 +250,7 @@ article {
     width: 90%;
     height: 200px;
     padding: 5px 10px;
+    border: solid 1px #c6c6c6;
   }
 
   .product_content {
